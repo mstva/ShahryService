@@ -1,0 +1,199 @@
+
+.container {
+	width: 60%;
+	margin: auto;
+}
+
+.text-centre {
+	text-align: center;
+}
+
+/* End our Framework */
+
+
+.upper-bar {
+	background-color: #383d41;
+	padding: 10px;
+}
+
+.upper-bar i {
+	color: white;
+	font-size: 18px;
+	margin: 3px;
+	text-align: right;
+}
+
+.number {
+	color: white;
+	font-family: arial;
+	font-size: 18px;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.rotate {
+	transform: rotate(90deg);
+	display: inline-block;
+}
+
+.navbar-nav .dropdown-menu {
+    position: static;
+    float: none;
+    color: #383d41;
+    font-weight: bold;
+}
+
+.navbar-nav .dropdown-menu a {
+    color: #383d41;
+}
+
+
+.navbar-light .navbar-brand {
+    color: rgba(0,0,0,.9);
+    font-family: 'Tajawal', sans-serif;
+    font-weight: bold;
+}
+
+.mr-auto, .mx-auto {
+    margin-right: auto!important;
+    font-family: 'Baloo Bhaijaan', cursive;
+}
+
+
+/*Start About*/
+
+.about {
+	background-color: #383d41;
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.about .info h1 {
+	font-weight: bold;
+	font-size: 35px
+}
+
+.about .info p {
+	font-family: 'Lateef', cursive;
+	font-weight: normal;
+	font-size: 35px;
+	line-height: 1;
+}
+
+
+/*End About*/
+
+
+/* Start Sell Furniture*/
+
+.sell-furniture {
+	padding-top: 30px;
+}
+
+.sell-furniture h1 {
+	font-family: 'Lalezar', cursive;
+	font-size: 30px;
+	font-weight: normal;
+	color: #383d41;
+}
+
+.sell-furniture p {
+	font-family: 'Lateef', cursive;
+	font-size: 30px;
+}
+.sell-furniture .shuffle-imgs {
+	margin-top: 50px;
+}
+
+.sell-furniture .row .col-sm {
+	padding: 0;
+}
+
+.sell-furniture .row img {
+    position: relative;
+    float: left;
+    width:  100%;
+    height: 100%;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+}
+
+/*End Sell Furniture*/
+
+/*Start Buy Furniture*/
+
+.buy-furniture {
+	padding-top: 30px;
+}
+
+.buy-furniture h1 {
+	font-family: 'Lalezar', cursive;
+	font-size: 30px;
+	font-weight: normal;
+	color: #383d41;
+}
+
+.buy-furniture p {
+	font-family: 'Lateef', cursive;
+	font-size: 30px;
+}
+
+.buy-furniture .shuffle-imgs {
+	margin-top: 50px;
+}
+
+.buy-furniture .row .col-sm {
+	padding: 0;
+}
+
+.buy-furniture .row img {
+    position: relative;
+    float: left;
+    width:  100%;
+    height: 100%;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+}
+
+/*End Buy Furniture*/
+
+/*Start Transform Furniture*/
+
+.transform-furniture {
+	padding-top: 30px;
+}
+
+.transform-furniture h1 {
+	font-family: 'Lalezar', cursive;
+	font-size: 30px;
+	font-weight: normal;
+	color: #383d41;
+}
+
+.transform-furniture p {
+	font-family: 'Lateef', cursive;
+	font-size: 30px;
+}
+
+.transform-furniture .shuffle-imgs {
+	margin-top: 50px;
+}
+
+.transform-furniture .row .col-sm {
+	padding: 0;
+}
+
+.transform-furniture .row img {
+    position: relative;
+    float: left;
+    width:  100%;
+    height: 100%;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+}
+
+/*End Transform Furniture*/
