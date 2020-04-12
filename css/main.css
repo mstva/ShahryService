@@ -14,7 +14,7 @@
 	border: 10px solid none;
 	border-radius: 15px;
 	padding: 15px;
-	background: #00bcd4;
+	background: #05dfd7;
 	background-clip: border-box;
     box-shadow: 0px -3px 44px 2px grey;
 }
@@ -57,7 +57,7 @@
 }
 
 .navbar-nav .dropdown-menu a {
-    color: #00bcd4;
+    color: white;
 }
 
 
