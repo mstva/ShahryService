@@ -10,6 +10,15 @@
 
 /* End our Framework */
 
+#callBtn {
+	border: 10px solid none;
+	border-radius: 15px;
+	padding: 15px;
+	background: #00bcd4;
+	background-clip: border-box;
+    box-shadow: 0px -3px 44px 2px grey;
+}
+
 
 .upper-bar {
 	background-color: #00bcd4;
@@ -35,6 +44,8 @@
 	transform: rotate(90deg);
 	display: inline-block;
 	font-size: 30px;
+	color: white;
+
 
 }
 
