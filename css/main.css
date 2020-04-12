@@ -26,7 +26,7 @@
 .number {
 	color: white;
 	font-family: arial;
-	font-size: 18px;
+	font-size: 30px;
 	font-weight: bold;
 	font-style: normal;
 }
@@ -34,6 +34,8 @@
 .rotate {
 	transform: rotate(90deg);
 	display: inline-block;
+	font-size: 30px;
+
 }
 
 .navbar-nav .dropdown-menu {
@@ -56,7 +58,8 @@
 
 .mr-auto, .mx-auto {
     margin-right: auto!important;
-    font-family: 'Baloo Bhaijaan', cursive;
+    font-family: 'Tajawal', sans-serif;
+    font-weight: bold;
 }
 
 
