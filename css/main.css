@@ -120,6 +120,17 @@
     background-size:     cover;
 }
 
+.phone-call-box {
+	color: #ffffff;
+	background-color: #dd8d14;
+    	border-radius: 10px;
+    	padding: 10px;
+    	align-items: center;
+    	justify-content: center;
+    	align-self: center;
+    	align-content: center;
+}
+
 /*End Sell Furniture*/
 
 /*Start Buy Furniture*/
