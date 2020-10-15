@@ -1,6 +1,6 @@
 
 .container {
-	width: 80%;
+	width: 60%;
 	margin: auto;
 }
 
@@ -10,18 +10,9 @@
 
 /* End our Framework */
 
-#callBtn {
-	border: 10px solid none;
-	border-radius: 15px;
-	padding: 15px;
-	background: #05dfd7;
-	background-clip: border-box;
-    box-shadow: 0px -3px 44px 2px grey;
-}
-
 
 .upper-bar {
-	background-color: #00bcd4;
+	background-color: #dd8d14;
 	padding: 10px;
 }
 
@@ -35,7 +26,7 @@
 .number {
 	color: white;
 	font-family: arial;
-	font-size: 30px;
+	font-size: 18px;
 	font-weight: bold;
 	font-style: normal;
 }
@@ -43,21 +34,17 @@
 .rotate {
 	transform: rotate(90deg);
 	display: inline-block;
-	font-size: 30px;
-	color: white;
-
-
 }
 
 .navbar-nav .dropdown-menu {
     position: static;
     float: none;
-    color: #00bcd4;
+    color: #dd8d14;
     font-weight: bold;
 }
 
 .navbar-nav .dropdown-menu a {
-    color: white;
+    color: #dd8d14;
 }
 
 
@@ -69,15 +56,14 @@
 
 .mr-auto, .mx-auto {
     margin-right: auto!important;
-    font-family: 'Tajawal', sans-serif;
-    font-weight: bold;
+    font-family: 'Baloo Bhaijaan', cursive;
 }
 
 
 /*Start About*/
 
 .about {
-	background-color: #00bcd4;
+	background-color: #dd8d14;
 	color: white;
 	padding-top: 20px;
 	padding-bottom: 20px;
@@ -109,7 +95,7 @@
 	font-family: 'Lalezar', cursive;
 	font-size: 30px;
 	font-weight: normal;
-	color: #00bcd4;
+	color: #dd8d14;
 }
 
 .sell-furniture p {
@@ -146,7 +132,7 @@
 	font-family: 'Lalezar', cursive;
 	font-size: 30px;
 	font-weight: normal;
-	color: #00bcd4;
+	color: #dd8d14;
 }
 
 .buy-furniture p {
@@ -184,7 +170,7 @@
 	font-family: 'Lalezar', cursive;
 	font-size: 30px;
 	font-weight: normal;
-	color: #00bcd4;
+	color: #dd8d14;
 }
 
 .transform-furniture p {
